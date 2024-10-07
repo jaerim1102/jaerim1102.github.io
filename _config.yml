@@ -25,12 +25,12 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author: 김재림
+author_bio: 안녕하세요! 디자인도 되고 개발도 되는 성장하는 디발자 김재림입니당 :D
+author_email: "jaerim1102@naver.com"
+author_location: South Korea
+author_website_url: "https://github.com/jaerim1102"
+typewrite-text: 최고의 디발자가 되고 싶은 재림이의 포트폴리오 블로그입니다!
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
